@@ -8,17 +8,17 @@ Aqui você encontrará um resumo direto e visual sobre quem sou, o que faço, no
 
 🧩 Tecnologias Utilizadas
 
-HTML5 Semântico
+* HTML5 Semântico
 
-CSS3 com responsividade (sem frameworks)
+* CSS3 com responsividade (sem frameworks)
 
-Organização por seções semânticas (header, main, section, article, aside, footer)
+* Organização por seções semânticas (header, main, section, article, aside, footer)
 
-Estilo limpo e acessível
+* Estilo limpo e acessível
 
-Imagem pessoal otimizada
+* Imagem pessoal otimizada
 
-Design responsivo (desktop e mobile)
+* Design responsivo (desktop e mobile)
 
 🔎 Estrutura da Página
 Cabeçalho com nome, frase pessoal e imagem de perfil
