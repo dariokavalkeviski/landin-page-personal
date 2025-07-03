@@ -1,5 +1,7 @@
 🚀 Landing Page Pessoal 
+
 🎯 Sobre o Projeto
+
 Esta landing page foi criada como parte de uma atividade prática com foco em HTML semântico e CSS puro, sem o uso de frameworks. Mais do que um exercício técnico, ela representa a minha visão como desenvolvedor: clareza, propósito e um olhar humano sobre o código.
 
 Aqui você encontrará um resumo direto e visual sobre quem sou, o que faço, no que acredito e como entrego valor através da programação. É o início do meu portfólio profissional, e ao mesmo tempo, um manifesto pessoal de quem escreve código com ética e consciência.
