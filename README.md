@@ -6,6 +6,7 @@ Esta landing page foi criada como parte de uma atividade prática com foco em HT
 
 Aqui você encontrará um resumo direto e visual sobre quem sou, o que faço, no que acredito e como entrego valor através da programação. É o início do meu portfólio profissional, e ao mesmo tempo, um manifesto pessoal de quem escreve código com ética e consciência.
 
+
 🧩 Tecnologias Utilizadas
 
 * HTML5 Semântico
@@ -19,6 +20,7 @@ Aqui você encontrará um resumo direto e visual sobre quem sou, o que faço, no
 * Imagem pessoal otimizada
 
 * Design responsivo (desktop e mobile)
+  
 
 🔎 Estrutura da Página
 Cabeçalho com nome, frase pessoal e imagem de perfil
@@ -41,6 +43,7 @@ Visual clean, informativo e fiel à minha identidade como desenvolvedor maduro e
 
 👤 Sobre mim
 Sou Dario Kavalkeviski — programador com visão ética, foco em dados e propósito claro. Com mais de 50 anos e uma trajetória multidisciplinar, uso a tecnologia como ponte entre o conhecimento e a transformação real. Gosto de estruturar, documentar e pensar como um arquiteto de sistemas, não apenas empilhador de blocos.
+
 
 📫 Contato
 Email: sdariok@gmail.com
