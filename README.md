@@ -12,7 +12,7 @@ HTML5 Semântico
 
 CSS3 com responsividade (sem frameworks)
 
-Organização por seções semânticas (<header>, <main>, <section>, <article>, <aside>, <footer>)
+Organização por seções semânticas (header,main, section, article, aside, footer)
 
 Estilo limpo e acessível
 
