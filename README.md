@@ -7,6 +7,7 @@ Esta landing page foi criada como parte de uma atividade prática com foco em HT
 Aqui você encontrará um resumo direto e visual sobre quem sou, o que faço, no que acredito e como entrego valor através da programação. É o início do meu portfólio profissional, e ao mesmo tempo, um manifesto pessoal de quem escreve código com ética e consciência.
 
 🧩 Tecnologias Utilizadas
+
 HTML5 Semântico
 
 CSS3 com responsividade (sem frameworks)
